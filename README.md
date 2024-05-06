@@ -93,8 +93,9 @@ while (1)
 }
 ```
 ## OUTPUT  :
-![309170067-42fe885c-cdce-4db5-a42f-04e863bf3677](https://github.com/SowmyaVisvanathan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119475775/9a5da3c0-b34e-4e4b-aa16-d7eac5506e3f)
-![309170247-ef70167e-8aba-434d-a30e-cca90717a256](https://github.com/SowmyaVisvanathan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119475775/227b708a-0c6d-4996-a3ea-16d52f3abbcd)
+![310498009-9a5da3c0-b34e-4e4b-aa16-d7eac5506e3f](https://github.com/SowmyaVisvanathan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119475775/69363b86-2d25-4510-a866-91c6bd6ea5d6)
+
+![310498300-227b708a-0c6d-4996-a3ea-16d52f3abbcd](https://github.com/SowmyaVisvanathan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119475775/43c1d3d9-76c2-43b4-ab7f-91f4f131a1bb)
 
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
